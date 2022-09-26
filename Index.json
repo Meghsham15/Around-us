@@ -106,6 +106,14 @@
         "colour": "White",
         "meltingPoint_inDegreeCelsius": "334",
         "bolingPoint_inDegreeCelsius": "400"
+    },
+    {
+        "id": 13,
+        "name": "Potassium Nitrate",
+        "molecular formula": "KNO3",
+        "colour": "White",
+        "meltingPoint_inDegreeCelsius": "334",
+        "bolingPoint_inDegreeCelsius": "400"
     }
 ]
 
